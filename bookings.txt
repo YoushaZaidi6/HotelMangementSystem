@@ -1,0 +1,77 @@
+*****BOOKING DETAILS*****
+Customer ID: 1
+Room Number: 1
+Customer Details: Yousha
+Single Room
+Nights:3
+costPerNight:1000$
+Room Number:1
+
+=====================================
+*****BOOKING DETAILS*****
+Customer ID: 2
+Room Number: 7
+Customer Details: Warner
+Suite
+Nights:3
+costPerNight:5000$
+Room Number:7
+
+=====================================
+*****BOOKING DETAILS*****
+Customer ID: 1
+Room Number: 6
+Customer Details: Yousha
+Double Room
+Nights:3
+costPerNight:2000$
+Room Number:6
+
+Updated Booking - Yousha
+Double Room
+Nights:2
+costPerNight:2000$
+Room Number:6
+
+*****BOOKING DETAILS*****
+Customer ID: 3
+Room Number: 4
+Customer Details: Yousha
+Double Room
+Nights:3
+costPerNight:2000$
+Room Number:4
+
+Updated Booking - Yousha
+Double Room
+Nights:5
+costPerNight:2000$
+Room Number:4
+
+*****BOOKING DETAILS*****
+Customer ID: 5
+Room Number: 5
+Customer Details: foren
+Double Room
+Nights:3
+costPerNight:2000$
+Room Number:5
+
+*****BOOKING DETAILS*****
+Customer ID: 6
+Room Number: 1
+Customer Details: poran
+Single Room
+Nights:2
+costPerNight:1000$
+Room Number:1
+
+*****BOOKING DETAILS*****
+Customer ID: 1
+Room Number: 9
+Customer Details: Ghazi Pazi
+Suite
+Nights:2
+costPerNight:5000$
+Room Number:9
+

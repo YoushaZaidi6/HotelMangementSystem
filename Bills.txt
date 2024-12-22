@@ -1,0 +1,59 @@
+===CHECK-OUT DETAILS===
+
+Customer ID: 1
+Customer Name: Yousha
+Room Type: Single Room
+Room Number: 1
+Number of Nights: 3
+Total Bill: $3000
+=================================
+
+===CHECK-OUT DETAILS===
+
+Customer ID: 2
+Customer Name: Warner
+Room Type: Suite
+Room Number: 7
+Number of Nights: 3
+Total Bill: $15000
+=================================
+
+===CHECK-OUT DETAILS===
+
+Customer ID: 1
+Customer Name: Yousha
+Room Type: Double Room
+Room Number: 6
+Number of Nights: 2
+Total Bill: $4000
+=================================
+
+===CHECK-OUT DETAILS===
+
+Customer ID: 5
+Customer Name: foren
+Room Type: Double Room
+Room Number: 5
+Number of Nights: 3
+Total Bill: $6000
+=================================
+
+===CHECK-OUT DETAILS===
+
+Customer ID: 6
+Customer Name: poran
+Room Type: Single Room
+Room Number: 1
+Number of Nights: 2
+Total Bill: $2000
+=================================
+
+===CHECK-OUT DETAILS===
+
+Customer ID: 1
+Customer Name: Ghazi Pazi
+Room Type: Suite
+Room Number: 9
+Number of Nights: 2
+Total Bill: $10000
+=================================
